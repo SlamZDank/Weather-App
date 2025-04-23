@@ -1,0 +1,65 @@
+Here's the plan for the presentation wednesday: 
+Greet everyone and thank them for coming
+Introduce them to react > and what are the fundemental priciples that made react good.
+React: Is a js library for frontend developement, it is component based to emphasize the reusability of the code.
+It is wiledly used in the field, there are big tech companies who use this like facebook (the makers of react)
+instagram / dropbox / netflix / discord / reddit / paypal...
+
+It is very popular that Vercel, made a powerful fullstack framework with it named next.js
+next.js can handle both server and client side rendering and further empowers reactjs to more hights.
+
+anyway, next.js is out of the scope of this project, but i recommend it if you are interested in using
+react in your future projects.
+
+First of all what is the name of this course, could anybody remind me of it?
+It is api consumption
+- What are apis?
+Even though the term may be new to some of you: api stand for application programming interface
+it is the in between of the client and the server.
+The client could be any user application: desktop / mobile / web / samsung smart fridge app...
+
+and im going to dive deeper into the how the api works by asking a single question?
+
+- What comes to your mind when you hear the word "consumption"?
+Food / drinks / snacks?
+
+Welp its true in a sense that we consume food.
+so we take food as an example,
+Imagine yourself seeing an ad for a marguerita pizza on your tv, or on your other devices, that ad is by glovo
+and then you hear your stomach rumbling, aching for some grub, you then download the application
+search for that same pizza thats advertized
+
+1- and then POST an order to the pizzaria through that app (maybe removing some stuff like oliver...)
+2- you wait for a while... and since im the one narrating let's maybe pretend that i have adhd (attention deficit hyperactivity disorder), I phone the pizza place and REQUEST them directly about the pizza status.
+and they say that the pizza is still in the queue.
+3- I then knowing that adhd is my problem, I decided to PATCH my previous order by changing the pizza to a delicious steak pizza
+4- I wait a moment, couple of moments have passed and then the pizza finally came to me it was bo3d char 3likom pizza bel ananas, 3melt reclamation 3liha w mellikher: dissatisfied, 9errert bech ndeleti my order.
+W khdhit my daily dose of gaming ramen noodles.
+
+can someone describe what i intended to say and retrieve the key words. 
+Behi thank you lelli charek.
+Li kont bech ne9ollou li rahou comme li i7na client, iste3melna glovo comme medium bech ncontactiou l pizza place, postina order, chofna status mte3ou, beddelna commande, jetna commanda ghalta, supprimina l order.
+
+Li 7kinhom tawa houma nefshom torou9 mte3 api communication:
+1- Post request: postina request fih order mte3na
+2- Get request: get status mte3 l product
+3- Patch request: beddelna bih commande
+4- Delete request: delete command
+
+hethouma yekhdmou nefs echay kima fil normal: where technical details...
+you can do something with it and bla bla bla
+
+There are somethings that come with a response.
+They are in the form of codes ranging from 100 to 500.
+Each leap by 100 represent a type of message ranging from
+1xx informational
+2xx success
+3xx redirection
+4xx client error
+5xx server error
+
+I will show you some examples about the status codes.
+Show cat images.
+
+Ok so, our project today focuses on communication with apis to make a nice and simple frontend using reactjs, the styling is already done for you and you can retrieve it from our discord server.
+Here is our QR code.
