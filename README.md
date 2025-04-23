@@ -1,1 +1,1 @@
-# Session 5: A weather API
+# Session 5: API Consumption
